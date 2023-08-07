@@ -4,7 +4,7 @@
 
 <p align="center">You may access the application by clicking on the link below:</p>
 
-<p align="center">https://renanmakoto.github.io/rocha-mix/</p>
+<p align="center">https://rochamix.netlify.app/</p>
 
 
 <div align="center">
