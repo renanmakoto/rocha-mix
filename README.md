@@ -1,6 +1,6 @@
 <h1 align="center">rocha-mix</h1>
 
-<p align="center">A landing page I developed to one of my customers.</p>
+<p align="center">A landing page I developed for one of my customers.</p>
 
 <p align="center">You may access the application by clicking on the link below:</p>
 
