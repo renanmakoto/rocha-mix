@@ -631,4 +631,6 @@ section header h2 {
   footer p {
     margin-bottom: 0;
   }
+  a {
+    text-decoration: none;
 }
