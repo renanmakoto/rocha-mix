@@ -125,6 +125,10 @@ body.menu-expanded #navigation .logo path,
   height: 100%;
 }
 
+a {
+  text-decoration:none;
+}
+
 /*--------------------NAVIGATION--------------------------------------------------------*/
 nav {
   display: flex;
@@ -633,4 +637,5 @@ section header h2 {
   }
   a {
     text-decoration: none;
+  }
 }
