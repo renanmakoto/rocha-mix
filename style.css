@@ -17,6 +17,7 @@
   --bg-light: hsl(180, 14%, 97%);
   --brand-dark: hsl(var(--hue), 100%, 14%);
 }
+
 html {
   scroll-behavior: smooth;
 }
