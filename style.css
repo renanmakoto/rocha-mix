@@ -40,6 +40,7 @@ body {
   overflow: overlay;
   background-color: var(--bg-light);
 }
+
 .wrapper {
   width: min(50rem, 100%);
   margin-inline: auto;
