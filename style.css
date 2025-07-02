@@ -108,6 +108,7 @@ section .content p {
 .button:hover {
   background-color: var(--brand-dark);
 }
+
 .social-links {
   display: flex;
   align-items: center;
