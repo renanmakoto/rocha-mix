@@ -120,6 +120,7 @@ section .content p {
 #services .card circle {
   fill: var(--brand-light);
 }
+
 #navigation .logo path[fill*="#00856F"],
 #backToTopButton circle {
   fill: var(--primary-color);
