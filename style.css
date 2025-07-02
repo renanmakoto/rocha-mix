@@ -115,6 +115,7 @@ section .content p {
   justify-content: center;
   gap: 3.2rem;
 }
+
 /*customCorlours*/
 #services .card circle {
   fill: var(--brand-light);
