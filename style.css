@@ -130,6 +130,7 @@ button.open-menu path[stroke*="00856F"],
 #contact li path {
   stroke: var(--primary-color);
 }
+
 body.menu-expanded #navigation .logo path,
 #navigation.scroll .logo path {
   fill: #ffffff;
