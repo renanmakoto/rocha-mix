@@ -135,6 +135,7 @@ body.menu-expanded #navigation .logo path,
 #navigation.scroll .logo path {
   fill: #ffffff;
 }
+
 #navigation.scroll button.open-menu path[stroke*="#00856F"] {
   stroke: #ffffff;
 }
