@@ -164,6 +164,7 @@ nav .wrapper {
   align-items: center;
   justify-content: space-between;
 }
+
 nav.scroll {
   background: var(--primary-color);
 }
