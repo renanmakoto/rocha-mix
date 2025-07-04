@@ -213,6 +213,7 @@ body.menu-expanded .close-menu {
 .menu {
   transform: translateY(100%);
 }
+
 body.menu-expanded .menu {
   top: 0;
   left: 0;
