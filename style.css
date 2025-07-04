@@ -192,6 +192,7 @@ nav .close-menu {
 body.menu-expanded {
   overflow: hidden;
 }
+
 body.menu-expanded > :not(nav) {
   visibility: hidden;
 }
