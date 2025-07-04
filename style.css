@@ -209,6 +209,7 @@ body.menu-expanded .close-menu {
   opacity: 1;
   visibility: visible;
 }
+
 .menu {
   transform: translateY(100%);
 }
