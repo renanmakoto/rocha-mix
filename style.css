@@ -187,6 +187,7 @@ nav .menu,
 nav .close-menu {
   position: fixed;
 }
+
 /*--------------------MENU-EXPANDED--------------------------------------------------------*/
 body.menu-expanded {
   overflow: hidden;
