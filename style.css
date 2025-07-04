@@ -196,6 +196,7 @@ body.menu-expanded {
 body.menu-expanded > :not(nav) {
   visibility: hidden;
 }
+
 .menu, 
 .close-menu,
 body.menu-expanded .open-menu {
