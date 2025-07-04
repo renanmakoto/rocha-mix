@@ -182,6 +182,7 @@ nav button {
   border: none;
   cursor: pointer;
 }
+
 nav .menu,
 nav .close-menu {
   position: fixed;
