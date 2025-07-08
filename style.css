@@ -281,6 +281,7 @@ body.menu-expanded button path {
   padding-top: calc(4.1rem + var(--nav-height));
   margin-top: 30px;
 }
+
 #home::before {
   content:"";
   width: 100%;
