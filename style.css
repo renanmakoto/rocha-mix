@@ -254,6 +254,7 @@ body.menu-expanded .menu {
   margin-top: 4.8rem;
   margin-bottom: 8rem;
 }
+
 .menu .button:hover {
   background-color: var(--primary-color);
   color: #ffffff;
