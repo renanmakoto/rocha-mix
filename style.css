@@ -260,6 +260,7 @@ body.menu-expanded .menu {
   color: #ffffff;
   filter: brightness(1.3);
 }
+
 body.menu-expanded .logo,
 body.menu-expanded nav button {
   position: relative;
