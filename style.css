@@ -325,6 +325,7 @@ margin-inline: auto;
   border: 1px solid var(--brand-light);
   border-radius: 0.6rem;
 }
+
 #home .stat h3 {
   font-size: 4.8rem;
   color: var(--headline);
