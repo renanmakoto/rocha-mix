@@ -266,6 +266,7 @@ body.menu-expanded nav button {
   position: relative;
   z-index: 100;
 }
+
 body.menu-expanded .logo path {
   fill: white;
 }
