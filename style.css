@@ -350,6 +350,7 @@ margin-inline: auto;
   flex-direction: column;
   gap: 3.2rem;
 }
+
 #services .card {
   padding: 2.4rem;
   text-align: left;
