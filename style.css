@@ -358,6 +358,7 @@ margin-inline: auto;
   border: 1px solid var(--brand-light);
   border-bottom: .6rem;
 }
+
 #services .card h3 {
   margin-block: 1.6rem;
 }
