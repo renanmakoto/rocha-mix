@@ -344,6 +344,7 @@ margin-inline: auto;
 #services header h2 {
   margin-bottom: 6rem;
 }
+
 #services .cards {
   display: flex;
   flex-direction: column;
