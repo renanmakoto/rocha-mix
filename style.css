@@ -463,6 +463,7 @@ footer .social-links {
   transform: translateY(100%);
   transition: 300ms;
 }
+
 #backToTopButton.show {
   opacity: 1;
   visibility: visible;
