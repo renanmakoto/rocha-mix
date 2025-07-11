@@ -491,6 +491,7 @@ body {
 .col-b {
   grid-area: B;
 }
+  
 section {
   padding-block: 16rem;
 }
