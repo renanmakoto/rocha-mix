@@ -482,7 +482,8 @@ body {
 .wrapper {
   width: min(112rem, 100%);
   display: grid;
-} 
+}
+  
 .cold-a {
   grid-area: A;
 }
