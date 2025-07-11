@@ -487,6 +487,7 @@ body {
 .cold-a {
   grid-area: A;
 }
+  
 .col-b {
   grid-area: B;
 }
