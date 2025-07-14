@@ -538,6 +538,7 @@ section header h2 {
     justify-content: space-between;
     width: 60%;
   }
+  
   nav#navigation .menu ul:nth-child(1) {
     gap: 3.2rem;
     display: flex;
