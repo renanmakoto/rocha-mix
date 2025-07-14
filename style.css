@@ -568,6 +568,7 @@ section header h2 {
     border: none;
     color: #ffffff;
   }
+  
   nav#navigation.scroll .menu ul li a {
     color: var(--brand-light-2);
     opacity: 0.6;
