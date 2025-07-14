@@ -548,6 +548,7 @@ section header h2 {
     color: var(--primary-color);
     opacity: 0.7;
   }
+  
   nav#navigation .menu a.button {
     display: flex;
     justify-content: center;
