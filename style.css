@@ -543,6 +543,7 @@ section header h2 {
     gap: 3.2rem;
     display: flex;
   }
+  
   nav#navigation .menu ul li a {
     color: var(--primary-color);
     opacity: 0.7;
