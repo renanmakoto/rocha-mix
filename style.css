@@ -531,6 +531,7 @@ section header h2 {
   nav#navigation .social-links {
     display: none;
   }
+  
   nav#navigation .menu {
     display: flex;
     align-items: center;
