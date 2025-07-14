@@ -562,6 +562,7 @@ section header h2 {
     line-height: 1.8rem;
     text-transform: uppercase;
   }
+  
   nav#navigation .menu a.button:hover {
     background-color: var(--primary-color);
     border: none;
