@@ -578,6 +578,7 @@ section header h2 {
     border-color: #ffffff;
     color: #ffffff;  
   }
+  
   nav#navigation .menu li a {
     transition: opacity .4s;
   }
