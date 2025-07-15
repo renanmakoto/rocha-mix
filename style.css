@@ -604,6 +604,7 @@ section header h2 {
   nav#navigation.scroll .menu li a::after {
     background-color: #ffffff;
   }
+  
   nav#navigation .menu li a.active::after,
   nav#navigation .menu li a:hover::after {
     padding-inline: 0.8rem;
