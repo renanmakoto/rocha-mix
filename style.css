@@ -588,6 +588,7 @@ section header h2 {
     opacity: 1;
     font-weight: 700;
   }
+  
   nav#navigation .menu li a::after {
     content: '';
     width: 100%;
