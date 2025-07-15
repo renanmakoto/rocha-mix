@@ -582,6 +582,7 @@ section header h2 {
   nav#navigation .menu li a {
     transition: opacity .4s;
   }
+  
   nav#navigation .menu li a.active,
   nav#navigation .menu li a:hover {
     opacity: 1;
