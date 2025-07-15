@@ -600,6 +600,7 @@ section header h2 {
     padding-inline: 0.8rem;
     display: block;
   }
+  
   nav#navigation.scroll .menu li a::after {
     background-color: #ffffff;
   }
