@@ -615,6 +615,7 @@ section header h2 {
   nav#navigation.scroll .menu li a:hover {
     opacity: 1;
   }
+  
   nav#navigation.scroll .menu a.button.active,
   nav#navigation.scroll .menu a.button:hover {
     background-color: var(--primary-color);
