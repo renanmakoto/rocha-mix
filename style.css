@@ -663,6 +663,7 @@ section header h2 {
   #home .stats .stat + .stat {
     border-left: 1px solid var(--primary-color);
   }
+  
   #home .stats .stat {
     flex: 1;
   }
