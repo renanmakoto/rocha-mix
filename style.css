@@ -709,6 +709,7 @@ section header h2 {
     grid-template-columns: 1fr 57.5rem;
     grid-template-areas: 'A B';
   }
+  
   #contact h2 {
     width: 40.4rem;
   }
