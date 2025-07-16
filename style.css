@@ -651,6 +651,7 @@ section header h2 {
   #home .content p {
     font-size: 1.8rem;
   }
+  
   #home .stats {
     margin-top: 6rem;
     grid-area: C;
