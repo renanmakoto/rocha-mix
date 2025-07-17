@@ -687,6 +687,7 @@ section header h2 {
     flex-wrap: wrap;
     gap: 4rem;
   }
+  
   #services .card {
     width: 30%;
     flex-grow: 1;
