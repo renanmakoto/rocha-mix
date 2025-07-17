@@ -736,6 +736,7 @@ section header h2 {
     align-self: center;
     /*justify-self: flex-end;*/
   }
+  
   footer p {
     margin-bottom: 0;
   }
