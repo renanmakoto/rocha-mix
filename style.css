@@ -722,6 +722,7 @@ section header h2 {
   footer {
     padding-block: 8rem;
   }
+  
   footer .wrapper {
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 'A B';
