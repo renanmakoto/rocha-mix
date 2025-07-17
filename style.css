@@ -727,6 +727,7 @@ section header h2 {
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 'A B';
   }
+  
   footer .col-a {
     align-self: center;
   }
