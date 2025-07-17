@@ -699,6 +699,7 @@ section header h2 {
     grid-template-areas: 'B A';
     gap: 6.7rem;
   }
+  
   #about .col-a {
     align-self: center;
   }
